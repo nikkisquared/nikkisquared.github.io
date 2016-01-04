@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+As my blog title says, this is my blog- and I'm Nikki Bee! As the footer says, I'm currently doing an internship for [Outreachy](https://www.gnome.org/outreachy/),  which is the December 2015 to March 2016 round. For now I'll be only using this every one or two weeks to talk about my internship. When/if I have more use for it in the future, I'll update this section accordingly!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I made this blog site using [GitHub Pages](https://pages.github.com/) and [Octopress](http://octopress.org/docs/), which are both pretty nifty!
