@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Okay, But What Does Your Work Actually Mean Nikki? Part 1: Starting On Servo"
+title: "Okay, But What Does Your Work Actually Mean, Nikki? Part 1: Starting On Servo"
 date: 2016-01-03T18:24:31-07:00
 ---
 
-In my first post, I tried talking about what I'm working on, but ended up talking about everything that lead to my internship, starting about a year ago! That's pretty cool, especially since it was the only way I could think of talking about it, but it was kind of misleading. I had a couple short paragraphs about Servo and Fetch, respectively, but I didn't feel up to expanding on either since my post was already so long. So, I'm going to be trying that now! Today I'll start writing about Servo itself.
+In my first post, I tried talking about what I'm working on, but ended up talking about everything that lead to my internship, starting about a year ago! That's pretty cool, especially since it was the only way I could think of talking about it, but it was kind of misleading. I had a couple short paragraphs about Servo and Fetch, respectively, but I didn't feel up to expanding on either since my post was already so long. So, I'm going to be trying that now! Today I'll start writing about what I've done for Servo.
 
 ## Servo At A Broad Level ##
 
 There's so much to Servo, I don't assume I could adequately talk about it at a broad level beyond quoting what I said two weeks ago: "Servo is a web rendering engine, which means it handles loading web pages and other specifications for using the web. To contrast Servo to a full-fledged browser: a browser could use Servo for its web rendering, and then put a user interface on top of it, things like bookmarks, tabs, a url bar."
 
-What I do feel more confident talking about is the parts of Servo I've worked with. That's in three areas: my first contribution to Servo and its follow-up, working on the Fetch implementation in Servo, and changes I've made to parts of Servo that Fetch relies on. Today I'm going to talk about the first part, and the other two together in the next post.
+What I do feel more confident talking about is the parts of Servo I've worked with. That's in three areas: my first contribution to Servo as part of my Outreachy application (and its follow-up), working on the Fetch implementation in Servo, and changes I've made to parts of Servo that Fetch relies on. Today I'm going to talk about the first part, and the other two together in the next post.
 
 ## My First Contribution ##
 
