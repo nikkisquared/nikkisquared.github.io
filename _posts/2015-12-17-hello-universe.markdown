@@ -2,6 +2,7 @@
 layout: post
 title: "Hello Universe! First Days Of Outreachy, December 2015"
 date: 2015-12-20T21:25:56-07:00
+tags: outreachy, planet
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Okay, But What Does Your Work Actually Mean, Nikki? Part 1: Starting On Servo"
 date: 2016-01-03T18:24:31-07:00
+tags: outreachy, planet
 ---
 
 In my first post, I tried talking about what I'm working on, but ended up talking about everything that lead to my internship, starting about a year ago! That's pretty cool, especially since it was the only way I could think of talking about it, but it was kind of misleading. I had a couple short paragraphs about Servo and Fetch, respectively, but I didn't feel up to expanding on either since my post was already so long. So, I'm going to be trying that now! Today I'll start writing about what I've done for Servo.
