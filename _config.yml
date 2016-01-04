@@ -11,8 +11,7 @@ title: Nikki Bee Blog
 description: > # this means to ignore newlines until "baseurl:"
   Hi! I'm currently doing an internship for Outreachy. Wow!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://http://nikkisquared.github.io" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
+url: "http://nikkisquared.github.io" # the base hostname & protocol for your site
 github_username:  nikkisquared
 
 # Build settings
