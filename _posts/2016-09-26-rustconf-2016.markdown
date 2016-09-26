@@ -1,0 +1,68 @@
+---
+layout: post
+title: "RustConf 2016"
+date: 2016-09-26T17:21:38-04:00
+tags: outreachy, planet, rust
+---
+
+So, a couple weeks ago I got to go to [RustConf 2016](http://rustconf.com/), the first instance of an annual event! What was it about? The relatively new programming language [Rust](https://www.rust-lang.org/en-US/), from Mozilla!
+
+## Attending ##
+
+I was only able to attend thanks to three factors: travel re-reimbursement allowance from Outreachy for my recent internship with them; a scholarship ticket from RustConf to cover attendance fees; and being able to stay at a friends place in Portland for a few days. Were it not for each of those, I would not have felt financially comfortable attending! I'm very grateful for all of the support.
+
+## The Morning ##
+
+I went to RustConf with my now wife, Decky Coss (who also was able to attend under the same circumstances as me!). We decided that since the event is only a day long, and due to our track record for having a hard time getting the "full" experience out of conventions, that we would work extra hard on getting there on time. As such, we only missed 25 minutes of the first talk.
+
+Of course, I'm not pleased that that happened, but we had the disadvantage of some rough flights the day before, as well as not staying on or near the location. Plus, we're just not cut out for whatever it takes to attend conferences studiously. But we did our best that day and I think that was OK.
+
+As I said, we missed the first half of the opening keynote, given by Aaron Turon and Niko Matsakis, but I really liked what I saw. It felt like a neat overview of Rust, especially concerning common issues newbies (like me!) run into with the language. It was gratifying hearing them point out the very same trip-ups I deal with, especially since they talked about how Rust developers are aware of these issues! They are looking into ways to help stop these trip-ups, such as better language syntax, and updating the Rust documentation.
+
+Acting as a perfect follow-up to the keynote was "The Illustrated Adventure Survival Guide", by Liz Baillie, which was easily the funnest talk. It was a drawn slideshow/comic making many metaphors and jokes representing how Rust works. I felt like it would be hard to enjoy if you didn't have a decent understanding of Rust but then again, I suppose nobody would be there if they didn't!
+
+The last talk of the morning, "Integrating Rust and VLC", by Geoffroy Couprie. It felt a bit hard to follow in that I didn't know what it was leading to. All the same I greatly enjoyed seeing both a practical implementation of Rust (in this case, handling video streaming codecs), and how Rust can act as a friendlier alternative to C-like languages (something that has been heavily on my mind).
+
+## The Afternoon ##
+
+Lunchtime! Lunch was set to be an hour and a half long, which, when I first saw the schedule, I thought would be excessively long. Somehow it went by very fast! Plus, following such a long morning, I was very grateful to get to unwind for a bit from listening to so much talking.
+
+However, the dessert I had gave me a bad sugar rush and crash and I felt very out of it for the next few hours, so I don't remember much about the talks during this time. None of them really did much for me, not that they were bad, but I just wasn't able to pay much attention.
+
+## The Evening ##
+
+Snack time! Again, I was glad to have a respite where I could chill out for a bit. Especially after having a hard time keeping focus for a few hours. This break was not nearly as long as lunch, but if it was any longer, I think the conference would have been too long.
+
+The first talk of the evening was "A Modern Editor in Rust", presented by Raph Levien. Raph talked about the text editor [Xi](https://github.com/google/xi-editor). I was excited by some of the things offered in it, since it's made to tackle unique issues, such as quickly loading  and scrolling through massive (like, hundreds of megabytes big) files. I didn't see much in it that I thought I needed personally, but I appreciate seeing programs for solving unique challenges like that.
+
+The next talk I ended up writing so much about, I put it into another section.
+
+## The Second-Last Talk ##
+
+Next was "RFC: In Order to Form a More Prefect `union`", by Josh Triplett, which was easily the most impactful talk to me. It was a chronicle of a Request For Comments idea created by the speaker, which was recently committed into Rust! Josh described the RFC process in the Rust community as "welcoming, open, and inclusive", all of which echoes my experience as a Rust newbie.
+
+Josh talked about each step of their submission, including how far their proposal went (which was a bit of a surprise to them!). The best part to me was, despite it becoming one of the most discussed issues on Rust's Github, Josh never found the proposal being taken from them by a more experienced contributor, no matter how high-level the discussion got. It's not that I would expect such a rude thing to happen easily, but more that I greatly appreciate the speaker being given ample room to learn how to become a better contributor.
+
+Previously, I contributed to Servo (the browser engine written in Rust) for my Outreachy internship, which had formal processes for my additions to be merged into the main code. That makes it obviously different than how it would be for any another contributor, since my internship gave me a unique position in relation to a mentor who knew the ins and outs of the Servo project. I never felt like I would be able to replicate this anywhere else.
+
+All that said, if I ever contribute to Rust more informally, this talk has given me a great idea of what to expect, and how to prepare to enter into doing so. Whenever I have an idea I want to share with Rust, I won't hesitate over doing so! Also, the next time I contribute to another FOSS project, I'll be thinking of the process here, and try to map the open Rust process to that project!
+
+## The Closing Keynote ##
+
+Finally, the closing keynote, presented by Julia Evans. She's the only person I already recognized, as we're both Recurse Center alums. During the snack break Decky and I decided to try to find her to chat for a couple minutes. We managed to do so- as well as get copies of a delightful zine she wrote about Linux tools she's found invaluable for programming! You can find it on her [website](http://jvns.ca/zines/).
+
+By this time I felt pretty fatigued from the long day, but Julia's talk was very energetic which made me enthused to pay attention. Her keynote was focused on learning systems programming with Rust, while new to the language- two things that felt challenging to her, but that she was able to get into well surprisingly quickly. I really relate to that sort of experience, since many times a new project I wanted to do seemed insurmountable, but became much easier after I started!
+
+I've never done any systems programming, but I've had a couple friends ask me when I've told them about Rust, if they can do X or Y sort of thing in it, to which I don't often have an answer. Based on Julia's talk, I feel comfortable saying systems programming is a good bet!
+
+## Other Things ##
+
+That's it for the talks themselves, although I had a few more thoughts I wanted to share.
+
+- As part of being late (as I mentioned before), Decky and I missed the breakfast offered by RustConf, although we hadn't realized there was any before we got there. Having lunch and snacks offered as part of the conference was fantastic. If Decky and I had to go out for lunch we probably would have missed a talk. Although, in the future, I'll be skipping out on sweets, even free ones, because sugar is just really bad for me :(.
+
+- I've never done an event that's so continuously long. The schedule for RustConf was about 9 hours straight, and I was quite exhausted by the end of it. In the future, I'd prefer an event with multiple, shorter days! Conventions in general are fatiguing for me, but having to sit all the time for a long day takes a lot out of me.
+
+- I know better to assume on an individual level, but I felt dismayed by the low ratio of women to men present at the conference. As a result of feeling a bit stranded by that, I felt uncomfortable talking to strangers. The only people I talked to - for more than a few sentences - were people I knew, or recognized from online.
+
+- One of the talks ended in a very forced parody of Trump's campaign slogan which got a lot of laughs from the crowd. When that happened, my only reaction was to turn to Decky and grimace to show her how unhappy I was. Comedy shouldn't be used to trivialize fascists, it should be used to kill fascism.
