@@ -63,6 +63,6 @@ That's it for the talks themselves, although I had a few more thoughts I wanted 
 
 - I've never done an event that's so continuously long. The schedule for RustConf was about 9 hours straight, and I was quite exhausted by the end of it. In the future, I'd prefer an event with multiple, shorter days! Conventions in general are fatiguing for me, but having to sit all the time for a long day takes a lot out of me.
 
-- I know better to assume on an individual level, but I felt dismayed by the low ratio of women to men present at the conference. As a result of feeling a bit stranded by that, I felt uncomfortable talking to strangers. The only people I talked to - for more than a few sentences - were people I knew, or recognized from online.
+- I know better than to assume on an individual level, but I felt dismayed by the low ratio of women to men present at the conference. As a result of feeling a bit stranded by that, I felt uncomfortable talking to strangers. The only people I talked to - for more than a few sentences - were people I knew, or recognized from online.
 
 - One of the talks ended in a very forced parody of Trump's campaign slogan which got a lot of laughs from the crowd. When that happened, my only reaction was to turn to Decky and grimace to show her how unhappy I was. Comedy shouldn't be used to trivialize fascists, it should be used to kill fascism.
